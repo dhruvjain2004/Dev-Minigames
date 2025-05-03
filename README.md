@@ -18,7 +18,6 @@ Each game is coded from scratch using web technologies and is designed to teach 
 | Game | Preview | Tech |
 |------|---------|------|
 | **Tic Tac Toe** | ![Tic Tac Toe](https://via.placeholder.com/250x150?text=Tic+Tac+Toe) | HTML, CSS, JS |
-| **Snake Game** | ![Snake Game](https://via.placeholder.com/250x150?text=Snake+Game) | Canvas, JS |
 | **Rock Paper Scissors** | ![RPS](https://via.placeholder.com/250x150?text=Rock+Paper+Scissors) | JS, DOM |
 
 ## 🎯 Purpose
